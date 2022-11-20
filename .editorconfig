@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# BC2001: no se encontró el archivo 'C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\holaDataSet.Designer.vb'
+dotnet_diagnostic.BC2001.severity = silent

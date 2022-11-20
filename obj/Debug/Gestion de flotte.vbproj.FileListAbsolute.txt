@@ -1,0 +1,15 @@
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\Gestion de flotte.vbprojAssemblyReference.cache
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.configuration.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.demande_conge.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.empl.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.Form1.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.ajouterform.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.Form2.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.calc.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.FormProductos.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.add.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.Form3.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.modifier_form.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\GUI_MODERNISTA_VB.Resources.resources
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\Gestion de flotte.vbproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Bureau\marina-G\GUI_MODERNISTA_VB\obj\Debug\Gestion de flotte.vbproj.CoreCompileInputs.cache
